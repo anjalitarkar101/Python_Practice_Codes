@@ -18,8 +18,8 @@ README.md: This file.
 * Run scripts using python filename.py in your terminal.
 
 🎓 Source & Credits
-All problems and explanations are based on the Chai aur Python series by Hitesh Choudhary on YouTube.
-Subscribe to learn Python in an easy, chai-pe-charcha style!
+* All problems and explanations are based on the Chai aur Python series by Hitesh Choudhary on YouTube.
+* Subscribe to learn Python in an easy, chai-pe-charcha style!
 
 💡 Purpose
 * Reinforce Python programming concepts.
