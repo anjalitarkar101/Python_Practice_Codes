@@ -5,11 +5,17 @@ It covers foundational to advanced Python concepts, organized into topic-specifi
 
 📚 Structure 
 The repository is organized by topic folders, with each folder containing Python problems and their solutions:
+
 01_problems_on_conditionals: Practice problems on conditionals (if-else).
+
 02_problems_on_loops: Exercises focused on loops (for, while).
+
 03_problems_on_functions: Function-based problems and concepts.
+
 04_problems_on_oops: Object-Oriented Programming (OOP) challenges.
+
 05_problems_on_decorators: Decorators and their usage in Python.
+
 README.md: This file.
 
 🧭 How to Use
